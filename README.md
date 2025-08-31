@@ -55,6 +55,12 @@ python indexing_openai.py
 python chat_openai.py
 ```
 
+### 7. Start the bot with UI
+
+```sh
+streamlit run ca_bot_streamlit.py
+```
+
 Type your questions in the terminal. Type `exit` to quit.
 
 ## Folder Structure
